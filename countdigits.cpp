@@ -14,7 +14,7 @@ using namespace std;
 int countdigits(int n)
 {
     int count{0};
-     while(n>0)
+     while(n!=0)
      {
         count++;
         n/=10;
@@ -50,7 +50,7 @@ int main()
     int n;
     cin>>n;
     string answer;
-    while(n>0)
+    while(n!=0)
     {
         int num = n%10;
         char ans= '0'+num;
