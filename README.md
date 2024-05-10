@@ -32,4 +32,4 @@ License
 This repository is licensed under the MIT License.
 
 Feedback and Support
-If you have any questions, suggestions, or issues regarding this repository, please feel free to open an issue or contact us.
+If you have any questions, suggestions, or issues regarding this repository, please feel free to open an issue or contact us- lingamvamshikrishnareddy@gmail.com
